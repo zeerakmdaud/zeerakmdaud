@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeerakmdaud
 - 👀 I’m interested in Designing cool products and apps
-- 📫 @ me zeerakmdaud@gmail.com
+- 📫 zeerakmdaud@gmail.com
 
 <!---
 zeerakmdaud/zeerakmdaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
