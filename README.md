@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeerakmdaud
-- 👀 I’m interested in Designing cool products and apps
+- 😎 designing cool products and apps
 - 📫 zeerakmdaud@gmail.com
 
 <!---
